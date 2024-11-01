@@ -433,7 +433,7 @@ public class BluetoothSerialService {
          */
         public void write(byte[] buffer) {
             try {
-                outStream.write(buffer);
+                socket.getOutputStream().write(buffer);
             } catch (IOException e) {
                 Log.e(TAG, "Exception during write", e);
                 /*reconnect();
