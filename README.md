@@ -8,7 +8,7 @@ A client implementation for interacting with classic Bluetooth SPP devices
 - [x] Android
 - [ ] iOS
 
-**Capacitor 4 ONLY for now!**
+**Capacitor 4,5,6 ONLY for now!**
 
 ## Todo
 
@@ -16,7 +16,7 @@ A client implementation for interacting with classic Bluetooth SPP devices
 - Provide examples
 - Add iOS support
 - Refactor and clean up some code
-- Update to Capacitor 5
+- Update to Capacitor 7
 
 ## Usage
 
