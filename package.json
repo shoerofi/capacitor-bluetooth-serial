@@ -1,5 +1,5 @@
 {
-  "name": "@speedengineering/capacitor-bluetooth-serial",
+  "name": "@shoerofi/capacitor-bluetooth-serial",
   "version": "2.0.0",
   "description": "Capacitor Bluetooth Serial Plugin",
   "main": "dist/plugin.cjs.js",
@@ -62,9 +62,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/speedengineering/capacitor-bluetooth-serial"
+    "url": "https://github.com/shoerofi/capacitor-bluetooth-serial"
   },
   "bugs": {
-    "url": "https://github.com/speedengineering/capacitor-bluetooth-serial/issues"
+    "url": "https://github.com/shoerofi/capacitor-bluetooth-serial/issues"
   }
 }
