@@ -1,6 +1,6 @@
 {
   "name": "@shoerofi/capacitor-bluetooth-serial",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Capacitor Bluetooth Serial Plugin",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
